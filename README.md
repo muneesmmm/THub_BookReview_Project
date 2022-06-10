@@ -1,4 +1,5 @@
 ![BFH Banner](https://trello-attachments.s3.amazonaws.com/542e9c6316504d5797afbfb9/542e9c6316504d5797afbfc1/39dee8d993841943b5723510ce663233/Frame_19.png)
+<img src="https://munees.me/assets/img/Certificate1.jpg" />
 # E-lib (JS-2 Book Review Platform)
 E-lib is a dynamic website in which users can add books. All the features are only available after a simple Sign Up procedure.
 The users will be able to review any products(books), see its details, view reviews by other users, also go to a purchase website. There is also a handy user page to track recent activity. We have also provide various means to sort the books, by author, by genre, by language. It is also possible to search for a book manually.
